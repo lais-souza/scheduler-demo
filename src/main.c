@@ -51,9 +51,7 @@ int main() {
 	if(imprimiu == 0){
 		printf("-");
 	}
-	if(i != n-1){		//essa condição foi necessária pois estava pulando uma linha a mais
 	  printf("\n");
-    }
   }
 
   return 0;
